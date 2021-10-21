@@ -4,29 +4,25 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: "Hi, I'm Stackbit Fresh."
+    title: "Daniel González"
     content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+      Desarrollador Fullstack Javascript. Estudiante de Platzi Master. Entusiasta de la ciencia de datos, el mercadeo y la productividad.
   - section_id: about
     type: section_content
-    title: About
+    title: Acerca de mi
     content: >-
-      This is the "about" excerpt. It can be used to provide a paragraph about
-      yourself that people can read on the homepage to get a sense of who you
-      are. There also exists a dedicated about page where you can write more
-      about yourself for those who are interested.
+      Apasionado por la tecnología en todos sus campos de aplicación. En los últimos años me he dedicado a estudiar las ciencias de la computación y el desarrollo de software con lenguajes como Python, PHP y Javascript. Actualmente me encuentro desarrollando integraciones para automatizar procesos en mercadeo y en productividad.
     actions:
-      - label: Contact Me
+      - label: Contacto
         url: /contact
         style: button
   - section_id: recent-posts
     type: section_posts
-    title: Recent Posts
+    title: Posts recientes
     posts_number: 4
     actions:
-      - label: View Blog
-        url: blog/index.html
+      - label: Ver Blog
+        url: /blog
         style: button
 seo:
   title: Stackbit Fresh Theme
