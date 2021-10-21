@@ -1,7 +1,7 @@
 ---
-title: About Me
-subtitle: This is a short page about me and my work.
-img_path: images/about.jpg
+title: Acerca de mi
+subtitle: Mi historia de cómo llegué al mundo de la tecnología y lo que he hecho.
+img_path: 
 img_alt: Portrait of a man with beard and mustache
 seo:
   title: About Me
@@ -32,12 +32,17 @@ seo:
 layout: page
 ---
 
-**John Doe** is a Senior Art Director from [Stockholm](https://en.wikipedia.org/wiki/Stockholm), Sweden. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
+Soy Ingeniero Mecánico de profesión y vivo en [Bogotá](https://es.wikipedia.org/wiki/Bogot%C3%A1), Colombia. Luego de graduarme de una maestría, decidí emprender **a finales del 2009**. Monté junto con mi padre una empresa de mantenimiento de vehículos aprovechando toda la experiencia adquirida previamente en el sector. Como todo emprendimiento, los primeros años fueron difíciles y llenos de incertidumbre. Al no haber presupuesto para contratar gente, decidí estudiar inicialmente temas de marketing. 
 
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2019.
+Poco a poco fui especializándome y dándome cuenta tanto de la importancia de automatizar procesos como de medir resultados. Fue en ese momento en que la curiosidad y el deseo de siempre aprender cosas nuevas me llevaron a descubrir **el mundo del desarrollo de software**. 
 
->The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
+**Era el año 2015** cuando decidí crear una aplicación para la gestión interna de documentos en PHP y montar una solución de CRM open source. <u>Al mismo tiempo, me encontraba explorando temas de data science con Python</u>. 
 
-As a hobby, John Doe authors the most influential design blog in Sweden with over 100,000 page views a month. He lives in Stockholm with his beautiful wife and two boys.
+Dos años más tarde, **en el 2017**, decidí embarcarme en la aventura de crear el sitio web de la empresa para actualizar la que teniamos montada con una tecnología muy básica. Implementé una solución low-code con Wordpress que luego personalicé y mejoré progresivamente hasta lo que es hoy en día. 
 
-*Thank You for reading!*
+En todo este camino descubrí una nueva pasión y **en el año 2020** decidí formalizar todo ese conocimiento estudiando para convertirme en **desarrollador Fullstack en JavaScript**.
+
+
+>"Cualquier tecnología suficientemente avanzada es indistinguible de la magia" <cite>Arthur C. Clarke</cite>
+
+*Gracias por llegar hasta el final!*
