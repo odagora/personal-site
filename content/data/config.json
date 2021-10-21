@@ -1,13 +1,13 @@
 {
-    "title": "Stackbit Fresh Theme",
+    "title": "Blog de tecnología | Daniel González",
     "path_prefix": "/",
     "layout_style": "overflow",
     "palette": "blue",
     "header": {
-        "title": "Stackbit Fresh",
-        "tagline": "Header Tagline",
-        "profile_img": "images/avatar.png",
-        "profile_img_alt": "Author avatar",
+        "title": "Daniel González",
+        "tagline": "Desarrollador Fullstack Javascript",
+        "profile_img": "https://res.cloudinary.com/dagrstwwf/image/upload/v1632880382/Website1_hrarot.png",
+        "profile_img_alt": "Imagen Autor",
         "background": "dark",
         "has_nav": true,
         "nav_links": [
@@ -22,17 +22,12 @@
                 "style": "link"
             },
             {
-                "label": "Style Guide",
-                "url": "/style-guide/",
-                "style": "link"
-            },
-            {
-                "label": "About",
+                "label": "Acerca de mi",
                 "url": "/about/",
                 "style": "link"
             },
             {
-                "label": "Contact",
+                "label": "Contacto",
                 "url": "/contact/",
                 "style": "link"
             }
@@ -41,35 +36,35 @@
         "social_links": [
             {
                 "label": "Twitter",
-                "url": "https://twitter.com/",
+                "url": "https://twitter.com/odagora",
                 "style": "icon",
                 "icon_class": "twitter",
                 "new_window": true
             },
             {
                 "label": "Instagram",
-                "url": "https://www.instagram.com/",
+                "url": "https://www.instagram.com/odagora",
                 "style": "icon",
                 "icon_class": "instagram",
                 "new_window": true
             },
             {
                 "label": "GitHub",
-                "url": "https://github.com/",
+                "url": "https://github.com/odagora",
                 "style": "icon",
                 "icon_class": "github",
                 "new_window": true
             },
             {
                 "label": "LinkedIn",
-                "url": "https://www.linkedin.com/",
+                "url": "https://www.linkedin.com/in/oscar-daniel-gonzalez/",
                 "style": "icon",
                 "icon_class": "linkedin",
                 "new_window": true
             },
             {
                 "label": "DEV",
-                "url": "https://dev.to/",
+                "url": "https://dev.to/odagora",
                 "style": "icon",
                 "icon_class": "dev",
                 "new_window": true
