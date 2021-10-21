@@ -72,7 +72,7 @@
         ]
     },
     "footer": {
-        "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=fresh&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>"
+        "content": "Hecho con ♥ por Daniel González.<br>&copy; 2021 - Todos los derechos reservados."
     },
     "domain": "https://personal-site-3cbdc.netlify.app"
 }
