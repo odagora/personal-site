@@ -3,6 +3,7 @@
     "path_prefix": "/",
     "layout_style": "overflow",
     "palette": "blue",
+    "favicon": "https://res.cloudinary.com/dagrstwwf/image/upload/v1634874865/Logo_personal_lohdsp.png",
     "header": {
         "title": "Daniel González",
         "tagline": "Desarrollador Fullstack Javascript",
@@ -74,5 +75,5 @@
     "footer": {
         "content": "Hecho con ♥ por Daniel González.<br>&copy; 2021 - Todos los derechos reservados."
     },
-    "domain": "https://personal-site-3cbdc.netlify.app"
+    "domain": "https://odagora.com"
 }
