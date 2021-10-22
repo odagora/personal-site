@@ -25,30 +25,30 @@ sections:
         url: /blog
         style: button
 seo:
-  title: Stackbit Fresh Theme
-  description: The preview of the Fresh theme
+  title: Blog de tecnología | Daniel González
+  description: ¿Qué puedes encontrar aquí?. Tutoriales y artículos de desarrollo de software y ciencia de datos. Ingresa ahora!
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Fresh Theme
+      value: Blog de tecnología | Daniel González
       keyName: property
     - name: 'og:description'
-      value: The preview of the Fresh theme
+      value: ¿Qué puedes encontrar aquí?. Tutoriales y artículos de desarrollo de software y ciencia de datos. Ingresa ahora!
       keyName: property
     - name: 'og:image'
-      value: images/4.jpg
+      value: https://res.cloudinary.com/dagrstwwf/image/upload/v1634874204/Twitter_Card_we9hqz.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Fresh Theme
+      value: Blog de tecnología | Daniel González
     - name: 'twitter:description'
-      value: The preview of the Fresh theme
+      value: Tutoriales y artículos de desarrollo de software y ciencia de datos
     - name: 'twitter:image'
-      value: images/4.jpg
+      value: https://res.cloudinary.com/dagrstwwf/image/upload/v1634874204/Twitter_Card_we9hqz.png
       relativeUrl: true
 layout: advanced
 ---

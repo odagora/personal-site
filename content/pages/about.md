@@ -2,32 +2,32 @@
 title: Acerca de mi
 subtitle: Mi historia de cómo llegué al mundo de la tecnología y lo que he hecho.
 img_path: 
-img_alt: Portrait of a man with beard and mustache
+img_alt: Foto de autor
 seo:
-  title: About Me
-  description: This is the about me page
+  title: Acerca de mi - Daniel González
+  description: Mi historia de cómo llegué al mundo de la tecnología y lo que he hecho.
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: About Me
+      value: Acerca de mi
       keyName: property
     - name: 'og:description'
-      value: This is the about me page
+      value: Mi historia de cómo llegué al mundo de la tecnología y lo que he hecho.
       keyName: property
     - name: 'og:image'
-      value: images/about.jpg
+      value: https://res.cloudinary.com/dagrstwwf/image/upload/v1634874204/Twitter_Card_we9hqz.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: About Me
+      value: Acerca de mi
     - name: 'twitter:description'
-      value: This is the about me page
+      value: Mi historia de cómo llegué al mundo de la tecnología y lo que he hecho.
     - name: 'twitter:image'
-      value: images/about.jpg
+      value: https://res.cloudinary.com/dagrstwwf/image/upload/v1634874204/Twitter_Card_we9hqz.png
       relativeUrl: true
 layout: page
 ---

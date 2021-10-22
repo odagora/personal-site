@@ -37,23 +37,23 @@ sections:
           Entiendo que este formulario almacena la información enviada y que puedo ser contactado.
     submit_label: Enviar mensaje
 seo:
-  title: Contact
-  description: This is the contact page
+  title: Contacto - Daniel González
+  description: Estamos a un click de distancia - contáctame
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Contact
+      value: Contacto
       keyName: property
     - name: 'og:description'
-      value: This is the contact page
+      value: Estamos a un click de distancia - contáctame
       keyName: property
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
-      value: Contact
+      value: Contacto
     - name: 'twitter:description'
-      value: This is the contact page
+      value: Estamos a un click de distancia - contáctame
 layout: advanced
 ---
