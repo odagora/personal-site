@@ -6,12 +6,12 @@ sections:
     type: section_hero
     title: "Daniel González"
     content: >-
-      Desarrollador Fullstack Javascript. Estudiante de Platzi Master. Entusiasta de la ciencia de datos, el mercadeo y la productividad.
+      Desarrollador Fullstack Javascript con experiencia en diseño, metodologías ágiles SCRUM, gestión de proyectos y marketing.
   - section_id: about
     type: section_content
     title: Acerca de mi
     content: >-
-      Apasionado por la tecnología en todos sus campos de aplicación. En los últimos años me he dedicado a estudiar las ciencias de la computación y el desarrollo de software con lenguajes como Python, PHP y Javascript. Actualmente me encuentro desarrollando integraciones para automatizar procesos en mercadeo y en productividad.
+      Apasionado por la tecnología en todos sus campos de aplicación. En los últimos años me he dedicado a estudiar las ciencias de la computación y el desarrollo de software con lenguajes como Javascript, Python, y PHP. Cuento con más de 5 años de experiencia en el campo. Estoy orientado a la solución de problemas, a la optimización de recursos y a los resultados.
     actions:
       - label: Contacto
         url: /contact
@@ -26,7 +26,7 @@ sections:
         style: button
 seo:
   title: Blog de tecnología | Daniel González
-  description: ¿Qué puedes encontrar aquí?. Tutoriales y artículos de desarrollo de software y ciencia de datos. Ingresa ahora!
+  description: ¿Qué puedes encontrar aquí?. Tutoriales y artículos en desarrollo de software y ciencia de datos. Ingresa ahora!
   extra:
     - name: 'og:type'
       value: website
@@ -35,10 +35,10 @@ seo:
       value: Blog de tecnología | Daniel González
       keyName: property
     - name: 'og:description'
-      value: ¿Qué puedes encontrar aquí?. Tutoriales y artículos de desarrollo de software y ciencia de datos. Ingresa ahora!
+      value: ¿Qué puedes encontrar aquí?. Tutoriales y artículos en desarrollo de software y ciencia de datos. Ingresa ahora!
       keyName: property
     - name: 'og:image'
-      value: https://res.cloudinary.com/dagrstwwf/image/upload/v1634874204/Twitter_Card_we9hqz.png
+      value: https://res.cloudinary.com/dagrstwwf/image/upload/v1650832709/twitter_card_dhnwbu.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -48,7 +48,7 @@ seo:
     - name: 'twitter:description'
       value: Tutoriales y artículos de desarrollo de software y ciencia de datos
     - name: 'twitter:image'
-      value: https://res.cloudinary.com/dagrstwwf/image/upload/v1634874204/Twitter_Card_we9hqz.png
+      value: https://res.cloudinary.com/dagrstwwf/image/upload/v1650832709/twitter_card_dhnwbu.png
       relativeUrl: true
 layout: advanced
 ---

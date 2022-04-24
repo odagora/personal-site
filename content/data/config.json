@@ -8,7 +8,7 @@
         "title": "Daniel González",
         "tagline": "Desarrollador Fullstack Javascript",
         "profile_img": "https://res.cloudinary.com/dagrstwwf/image/upload/v1650820442/profile-photo_nyrtss.png",
-        "profile_img_alt": "Imagen Autor",
+        "profile_img_alt": "Daniel González imagen de perfil",
         "background": "dark",
         "has_nav": true,
         "nav_links": [
@@ -73,7 +73,7 @@
         ]
     },
     "footer": {
-        "content": "Hecho con ♥ por Daniel González.<br>&copy; 2021 - Todos los derechos reservados."
+        "content": "Hecho con ♥ por Daniel González.<br>&copy; 2022 - Todos los derechos reservados."
     },
     "domain": "https://odagora.com"
 }
